@@ -30,5 +30,5 @@ http://192.168.100.106:5000/stream?url=https://www.youtube.com/user/encuentro/li
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" group-title="YouTube",Pakapaka
 http://192.168.100.106:5000/stream?url=https://www.youtube.com/user/CanalPakapaka/live
 
-#EXTINF:-1 tvg-name="Soulful Rhythms Live" group-title="Música",Soulful Rhythms Live
+#EXTINF:-1 tvg-id="gat" tvg-name="michi" group-title="YouTube",michi
 http://192.168.100.106:5000/stream?url=https://www.youtube.com/@SoulfulRhythmsLofi/live
