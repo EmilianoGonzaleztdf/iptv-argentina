@@ -1,49 +1,11 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="C5N" group-title="YouTube",C5N
+http://192.168.100.106:5000/stream?url=https://www.youtube.com/c/c5n/live
 
-#EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-name="TN Todo Noticias" group-title="Argentina",TN Todo Noticias
-https://live-01-01-tn.vodgc.net/TN24/index.m3u8
+#EXTINF:-1 tvg-name="Crónica TV" group-title="YouTube",Crónica TV
+http://192.168.100.106:5000/stream?url=https://www.youtube.com/c/cronicatv/live
 
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" group-title="Argentina",Encuentro
-https://www.youtube.com/user/encuentro/live
 
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" group-title="Argentina",Pakapaka
-https://www.youtube.com/user/CanalPakapaka/live
-
-#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" group-title="Argentina",Aunar
-https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" group-title="Argentina",Cine.AR
-https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" group-title="Argentina",Tec TV
-https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
-
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="Televisión Pública" group-title="Argentina",Televisión Pública
-https://www.youtube.com/user/TVPublicaArgentina/live
-
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" group-title="Argentina",DeporTV
-https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="Argentina",Canal 26
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" group-title="Argentina",Crónica TV
-https://www.youtube.com/c/cronicatv/live
-
-#EXTINF:-1 tvg-id="IPNoticias.ar" tvg-name="IP Noticias" group-title="Argentina",IP Noticias
-https://www.youtube.com/watch?v=IxQ2-6Y4y9w
-
-#EXTINF:-1 tvg-id="ElDestape.ar" tvg-name="El Destape" group-title="Argentina",El Destape
-https://www.youtube.com/watch?v=JuskTxbUqmY
-
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="Argentina",C5N
-https://www.youtube.com/c/c5n/live
-
-#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LN+" group-title="Argentina",LN+
-https://www.youtube.com/c/LaNacionMas/live
-
-#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" group-title="Argentina",Canal E
-https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
 
 
 
