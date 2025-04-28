@@ -1,48 +1,49 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="PlutoTV: Películas" group-title="PlutoTV",PlutoTV: Películas
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6a5a9fc2b70009141404/master.m3u8
+#EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-name="TN Todo Noticias" group-title="Argentina",TN Todo Noticias
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 tvg-name="PlutoTV: Cine Acción" group-title="PlutoTV",PlutoTV: Cine Acción
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6aa6be2f0a00092109b7/master.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" group-title="Argentina",Encuentro
+https://www.youtube.com/user/encuentro/live
 
-#EXTINF:-1 tvg-name="PlutoTV: Cine Comedia" group-title="PlutoTV",PlutoTV: Cine Comedia
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6ad9f8d4db000903c66d/master.m3u8
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" group-title="Argentina",Pakapaka
+https://www.youtube.com/user/CanalPakapaka/live
 
-#EXTINF:-1 tvg-name="PlutoTV: Cine Terror" group-title="PlutoTV",PlutoTV: Cine Terror
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6b1b9fc2b70009141625/master.m3u8
+#EXTINF:-1 tvg-id="Aunar.ar" tvg-name="Aunar" group-title="Argentina",Aunar
+https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 
-#EXTINF:-1 tvg-name="PlutoTV: Series" group-title="PlutoTV",PlutoTV: Series
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6b5abe2f0a0009210a07/master.m3u8
+#EXTINF:-1 tvg-id="CineAr.ar" tvg-name="Cine.AR" group-title="Argentina",Cine.AR
+https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 
-#EXTINF:-1 tvg-name="PlutoTV: Documentales" group-title="PlutoTV",PlutoTV: Documentales
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6b7cf8d4db000903c681/master.m3u8
+#EXTINF:-1 tvg-id="TECTV.ar" tvg-name="Tec TV" group-title="Argentina",Tec TV
+https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
-#EXTINF:-1 tvg-name="PlutoTV: Reality Shows" group-title="PlutoTV",PlutoTV: Reality Shows
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6ba4f8d4db000903c689/master.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="Televisión Pública" group-title="Argentina",Televisión Pública
+https://www.youtube.com/user/TVPublicaArgentina/live
 
-#EXTINF:-1 tvg-name="PlutoTV: Deportes" group-title="PlutoTV",PlutoTV: Deportes
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6bd7be2f0a0009210a16/master.m3u8
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-name="DeporTV" group-title="Argentina",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="PlutoTV: Noticias" group-title="PlutoTV",PlutoTV: Noticias
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6c01be2f0a0009210a1e/master.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="Argentina",Canal 26
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="PlutoTV: Cocina" group-title="PlutoTV",PlutoTV: Cocina
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6c2cf8d4db000903c693/master.m3u8
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" group-title="Argentina",Crónica TV
+https://www.youtube.com/c/cronicatv/live
 
-#EXTINF:-1 tvg-name="PlutoTV: Música" group-title="PlutoTV",PlutoTV: Música
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6c57be2f0a0009210a26/master.m3u8
+#EXTINF:-1 tvg-id="IPNoticias.ar" tvg-name="IP Noticias" group-title="Argentina",IP Noticias
+https://www.youtube.com/watch?v=IxQ2-6Y4y9w
 
-#EXTINF:-1 tvg-name="PlutoTV: Niños" group-title="PlutoTV",PlutoTV: Niños
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6c8cf8d4db000903c69d/master.m3u8
+#EXTINF:-1 tvg-id="ElDestape.ar" tvg-name="El Destape" group-title="Argentina",El Destape
+https://www.youtube.com/watch?v=JuskTxbUqmY
 
-#EXTINF:-1 tvg-name="PlutoTV: Anime" group-title="PlutoTV",PlutoTV: Anime
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6cc5f8d4db000903c6a5/master.m3u8
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="Argentina",C5N
+https://www.youtube.com/c/c5n/live
 
-#EXTINF:-1 tvg-name="PlutoTV: Estilo de Vida" group-title="PlutoTV",PlutoTV: Estilo de Vida
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6cf3f8d4db000903c6ab/master.m3u8
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LN+" group-title="Argentina",LN+
+https://www.youtube.com/c/LaNacionMas/live
 
-#EXTINF:-1 tvg-name="PlutoTV: Tecnología" group-title="PlutoTV",PlutoTV: Tecnología
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6d2abe2f0a0009210a2e/master.m3u8
+#EXTINF:-1 tvg-id="CanalE.ar" tvg-name="Canal E" group-title="Argentina",Canal E
+https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
+
 
 
