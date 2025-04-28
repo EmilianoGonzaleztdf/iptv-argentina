@@ -21,6 +21,9 @@ http://192.168.100.106:5000/stream?url=https://www.youtube.com/c/todonoticias/li
 #EXTINF:-1 tvg-id="AméricaTV.ar" tvg-name="América TV" group-title="YouTube",América TV
 http://192.168.100.106:5000/stream?url=https://www.youtube.com/c/Americatv/live
 
+#EXTINF:-1 tvg-id="gat" tvg-name="michi" group-title="YouTube",michi
+http://192.168.100.106:5000/stream?url=https://www.youtube.com/@SoulfulRhythmsLofi/live
+
 #EXTINF:-1 tvg-id="IPNoticias.ar" tvg-name="IP Noticias" group-title="YouTube",IP Noticias
 http://192.168.100.106:5000/stream?url=https://www.youtube.com/channel/UC1J9Q8vaYtDuyT-ehh4YBAg/live
 
@@ -29,9 +32,6 @@ http://192.168.100.106:5000/stream?url=https://www.youtube.com/user/encuentro/li
 
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" group-title="YouTube",Pakapaka
 http://192.168.100.106:5000/stream?url=https://www.youtube.com/user/CanalPakapaka/live
-
-#EXTINF:-1 tvg-id="gat" tvg-name="michi" group-title="YouTube",michi
-http://192.168.100.106:5000/stream?url=https://www.youtube.com/@SoulfulRhythmsLofi/live
 
 #EXTINF:-1 tvg-id="QMusicaTV" tvg-name="QMusicaTV" group-title="YouTube",QMusicaTV
 http://192.168.100.106:5000/stream?url=https://www.youtube.com/@quieromusicatv/live
