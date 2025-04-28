@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="Argentina",TV Pública
-https://5cf4a2c2512a2.streamlock.net/tvpublica/tvpublica/playlist.m3u8
+https://cdnenvivohlsb.onlineformosa.com.ar/tvpublica/tvpublica/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" group-title="Argentina",Crónica TV
 https://stmv1.cnarlatam.com/cronica/cronica/playlist.m3u8
@@ -26,4 +26,5 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_natgeo_natgeo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="History Channel" group-title="Documentales",History Channel
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_historychannel_historychannel/playlist.m3u8
+
 
