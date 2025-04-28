@@ -32,3 +32,6 @@ http://192.168.100.106:5000/stream?url=https://www.youtube.com/user/CanalPakapak
 
 #EXTINF:-1 tvg-id="gat" tvg-name="michi" group-title="YouTube",michi
 http://192.168.100.106:5000/stream?url=https://www.youtube.com/@SoulfulRhythmsLofi/live
+
+#EXTINF:-1 tvg-id="QuieroMusicaTV" tvg-name="QuieroMusicaTV" group-title="YouTube",QuieroMusicaTV
+http://192.168.100.106:5000/stream?url=https://www.youtube.com/@quieromusicatv/live
