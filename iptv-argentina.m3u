@@ -1,3 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="test" tvg-name="test" group-title="test",TV test
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="Argentina",TV Pública
+(link funcional TV Pública)
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" group-title="Argentina",Crónica TV
+(link funcional Crónica TV)
+#EXTINF:-1 tvg-id="TN.ar" tvg-name="Todo Noticias" group-title="Argentina",Todo Noticias
+(link funcional TN)
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="Argentina",C5N
+(link funcional C5N)
+#EXTINF:-1 tvg-id="Simpsons.ar" tvg-name="The Simpsons" group-title="Series",Los Simpsons
+(link funcional Simpsons)
