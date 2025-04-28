@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1, Channel 1 - Movie Schedule
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+#EXTINF:-1, Channel 2 - 30A TV Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1, Channel 3 - Pluto TV Channel 1
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263252-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7c57f1f3-2078-4f92-a4b5-6cd444220a70
+#EXTINF:-1, Channel 4 - Pluto TV Channel 2
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c263253-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b52c759c-a26c-4e65-828b-14277d6117e0
+#EXTINF:-1, Channel 5 - Pluto TV Channel 3
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d86f519358a00072b978e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c265961-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=71f86833-3dd6-41ac-a9b8-4a4ec8873306
+#EXTINF:-1, Channel 6 - Kino Channel
+http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1, Channel 7 - ABN Bible Movies
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:-1, Channel 8 - Action TV
+http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1, Channel 9 - Afghan Nobel Channel
+https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8
+#EXTINF:-1, Channel 10 - Edge Next Live
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8
+#EXTINF:-1, Channel 11 - Afriwood Premium
+https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
+#EXTINF:-1, Channel 12 - Alterna TV
+https://alternatv.ar/stream/hls/live.m3u8
+#EXTINF:-1, Channel 13 - VegaFibratv AMC
+http://vegafibratv.com:8085/AMC/index.m3u8
+#EXTINF:-1, Channel 14 - UCOM TV
+http://181.78.109.48:8000/play/a02l/index.m3u8
+#EXTINF:-1, Channel 15 - UCOM TV 2
+http://ott-cdn.ucom.am/s64/index.m3u8
+#EXTINF:-1, Channel 16 - Amhor Channel
+http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
+#EXTINF:-1, Channel 17 - AXN Channel
+http://181.78.109.48:8000/play/a05u/index.m3u8
+#EXTINF:-1, Channel 18 - AXN Channel 2
+http://125hvt.ddns.net:21585/axn/index.m3u8
+#EXTINF:-1, Channel 19 - Pluto TV Channel 4
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c271cb5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93605d96-6c9d-457d-a2b4-d26d07474db9
+#EXTINF:-1, Channel 20 - Shls Akamai
+https://shls-live-ak.akamaized.net/out/v1/485100a2150e4f69a338a5c99ca5648e/index.m3u8
+#EXTINF:-1, Channel 21 - BOM Channel
+http://185.189.225.150:85/BOM/index.m3u8
+#EXTINF:-1, Channel 22 - Bravo WNS
+https://bravoohls.wns.live/hls/stream.m3u8
+#EXTINF:-1, Channel 23 - Canal Mediaserver
+https://canal.mediaserver.com.co/live/cinedios.m3u8
+#EXTINF:-1, Channel 24 - Uplynk Channel
+https://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1, Channel 25 - Cine5tv
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1, Channel 26 - Pluto TV Channel 5
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4d042878-a4ee-480d-8f14-ebbfb96388e9
+#EXTINF:-1, Channel 27 - Pluto TV Channel 6
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41
+#EXTINF:-1, Channel 28 - Pluto TV Channel 7
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e000-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7f04239-fee6-40d2-9e5e-6893a6d330ec
+#EXTINF:-1, Channel 29 - Stream Ads
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
+#EXTINF:-1, Channel 30 - Klowdtv
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1, Channel 31 - Pluto TV Channel 8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f
+#EXTINF:-1, Channel 32 - Pluto TV Channel 9
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
+#EXTINF:-1, Channel 33 - Bozztv Classic Cinema
+https://bozztv.com/gusa/gusa-classiccinema/index.m3u8
+#EXTINF:-1, Channel 34 - Srvif Classic Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e003-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7911819c-67eb-4f58-944f-5c6c6d4d937d
+#EXTINF:-1, Channel 35 - Classique Channel
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1, Channel 36 - Cosmos Channel
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+#EXTINF:-1, Channel 37 - Crave Channel 1
+http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+#EXTINF:-1, Channel 38 - Crave Channel 2
+http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
+#EXTINF:-1, Channel 39 - Discover Film Channel
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1, Channel 40 - Unifi HD
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+#EXTINF:-1, Channel 41 - Rpn Bozztv
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+#EXTINF:-1, Channel 42 - Zhongying Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=4
+#EXTINF:-1, Channel 43 - Forensic Files Channel
+https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
+#EXTINF:-1, Channel 44 - Filmrise True Crime Channel
+https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
+#EXTINF:-1, Channel 45 - Pluto TV Channel 10
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca66-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=671a0e89-5b21-406b-95a9-b395c4ef4b07
+#EXTINF:-1, Channel 46 - Freedomflixtv
+https://panel.freedomflixtv.org:3311/stream/play.m3u8
+#EXTINF:-1, Channel 47 - FX Movie Channel
+https://v1.thetvapp.to/hls/FXMovieChannel/index.m3u8
+#EXTINF:-1, Channel 48 - GCinema Channel
+https://gcinemahls.wns.live/hls/stream.m3u8
+#EXTINF:-1, Channel 49 - Frequency Stream Channel
+https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8
+#EXTINF:-1, Channel 50 - GroovyTV Channel
+http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
+#EXTINF:-1, Channel 51 - Pluto TV Channel 11
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291886-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=58dbb587-5d0d-412d-ae10-107ee9caac5a
+#EXTINF:-1, Channel 52 - Hallmark Movies Mysteries
+https://v1.thetvapp.to/hls/HallmarkMoviesMysteriesEast/index.m3u8
+#EXTINF:-1, Channel 53 - GulfSat HBC
+https://ffs3.gulfsat.com/hbc/index.m3u8
