@@ -1,41 +1,22 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/us.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar.xml"
 
-#EXTINF:-1 tvg-id="movie-schedule" tvg-name="Movie Schedule" tvg-logo="https://iptv-org.github.io/iptv/logos/us/movie-schedule.png" group-title="Películas", Channel 1 - Movie Schedule
-https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+#EXTINF:-1 tvg-id="cine.ar" tvg-name="CINE.AR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/CINE.AR_logo.png" group-title="Películas",CINE.AR
+https://5dc578907fd85.streamlock.net/cinear/smil:cinema.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="30a-tv" tvg-name="30A TV Movies" tvg-logo="https://iptv-org.github.io/iptv/logos/us/30a-tv.png" group-title="Películas", Channel 2 - 30A TV Movies
-https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 tvg-id="encuentro.ar" tvg-name="Encuentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Canal_Encuentro_logo_2015.png" group-title="Educativo",Encuentro
+https://stream.encuentro.gob.ar/live/encuentro/encuentro1/encuentro1.m3u8
 
-#EXTINF:-1 tvg-id="pluto-tv" tvg-name="Pluto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pluto_TV_logo.svg/1200px-Pluto_TV_logo.svg.png" group-title="Películas", Channel 3 - Pluto TV Channel 1
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8
+#EXTINF:-1 tvg-id="pakapaka.ar" tvg-name="PakaPaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/Pakapaka_logo.png" group-title="Infantil",PakaPaka
+https://stream.pakapaka.gob.ar/live/pakapaka/pakapaka1/pakapaka1.m3u8
 
-#EXTINF:-1 tvg-id="pluto-tv-2" tvg-name="Pluto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Pluto_TV_logo.svg/1200px-Pluto_TV_logo.svg.png" group-title="Películas", Channel 4 - Pluto TV Channel 2
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8
+#EXTINF:-1 tvg-id="deportv.ar" tvg-name="DeporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/DeporTV_logo_2020.png" group-title="Deportes",DeporTV
+https://stream.deportv.gob.ar/live/deportv/deportv1/deportv1.m3u8
 
-#EXTINF:-1 tvg-id="kino-channel" tvg-name="Kino Channel" tvg-logo="https://iptv-org.github.io/iptv/logos/unknown.png" group-title="Películas", Channel 6 - Kino Channel
-http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 tvg-id="publica.ar" tvg-name="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TV_Publica_Argentina_logo_2016.png" group-title="Noticias",TV Pública
+https://tvparg01.akamaized.net/hls/live/2030578/tvpa/tvpa.m3u8
 
-#EXTINF:-1 tvg-id="abn-bible-movies" tvg-name="ABN Bible Movies" tvg-logo="https://iptv-org.github.io/iptv/logos/unknown.png" group-title="Religión", Channel 7 - ABN Bible Movies
-https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+#EXTINF:-1 tvg-id="pluto-tv-simpsons" tvg-name="Pluto TV - Series Clásicas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Pluto_TV_logo.svg" group-title="Series",Pluto TV - Series Clásicas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df6f1e9ad9962000981e040/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=ChromeBrowser
 
-#EXTINF:-1 tvg-id="action-tv" tvg-name="Action TV" tvg-logo="https://iptv-org.github.io/iptv/logos/unknown.png" group-title="Películas", Channel 8 - Action TV
-http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="axn" tvg-name="AXN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/AXN_logo_2015.svg" group-title="Series", Channel 17 - AXN Channel
-http://181.78.109.48:8000/play/a05u/index.m3u8
-
-#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/99/FX_Movie_Channel_logo.svg" group-title="Películas", Channel 47 - FX Movie Channel
-https://v1.thetvapp.to/hls/FXMovieChannel/index.m3u8
-
-#EXTINF:-1 tvg-id="hallmark-movies-mysteries" tvg-name="Hallmark Movies & Mysteries" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/Hallmark_Movies_%26_Mysteries_logo.png" group-title="Películas", Channel 52 - Hallmark Movies Mysteries
-https://v1.thetvapp.to/hls/HallmarkMoviesMysteriesEast/index.m3u8
-
-#EXTINF:-1 tvg-id="cine5tv" tvg-name="Cine5 TV" tvg-logo="https://iptv-org.github.io/iptv/logos/unknown.png" group-title="Películas", Channel 25 - Cine5tv
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="filmrise-true-crime" tvg-name="FilmRise True Crime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/FilmRise_logo.svg" group-title="Crimen", Channel 44 - Filmrise True Crime Channel
-https://apollo.production-public.tubi.io/live/ac-filmrise-true-crime.m3u8
-
-#EXTINF:-1 tvg-id="forensic-files" tvg-name="Forensic Files" tvg-logo="https://iptv-org.github.io/iptv/logos/unknown.png" group-title="Crimen", Channel 43 - Forensic Files Channel
-https://apollo.production-public.tubi.io/live/ac-forensic-files.m3u8
-
+#EXTINF:-1 tvg-id="pluto-tv-peliculas" tvg-name="Pluto TV - Cine Estelar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Pluto_TV_logo.svg" group-title="Películas",Pluto TV - Cine Estelar
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df6f2489b07f4000998bd95/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=ChromeBrowser
