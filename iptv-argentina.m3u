@@ -31,7 +31,7 @@ http://192.168.100.106:5000/stream?url=https://www.youtube.com/user/encuentro/li
 http://192.168.100.106:5000/stream?url=https://www.youtube.com/user/CanalPakapaka/live
 
 #EXTINF:-1 tvg-id="gat" tvg-name="michi" group-title="YouTube",michi
-http://192.168.100.106:5000/stream?url=https://www.youtube.com/@quieromusicatv/live
+http://192.168.100.106:5000/stream?url=https://www.youtube.com/@SoulfulRhythmsLofi/live
 
-#EXTINF:-1 tvg-id="QuieroMusicaTV" tvg-name="QuieroMusicaTV" group-title="YouTube",QuieroMusicaTV
+#EXTINF:-1 tvg-id="QMusicaTV" tvg-name="QMusicaTV" group-title="YouTube",QMusicaTV
 http://192.168.100.106:5000/stream?url=https://www.youtube.com/@quieromusicatv/live
