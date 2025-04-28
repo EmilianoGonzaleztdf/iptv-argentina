@@ -30,9 +30,8 @@ http://192.168.100.106:5000/stream?url=https://www.youtube.com/user/encuentro/li
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" group-title="YouTube",Pakapaka
 http://192.168.100.106:5000/stream?url=https://www.youtube.com/user/CanalPakapaka/live
 
-#EXTINF:-1 tvg-id="gatitos asmr" tvg-name="gatitos" group-title="YouTube",Gatitos
-http://192.168.100.106:5000/https://www.youtube.com/watch?v=LBDCQfju1cY&t=36s&ab_channel=jij~CatJazz~
-
+#EXTINF:-1 tvg-name="Jazz Chill" group-title="Música",Jazz Chill
+http://192.168.100.106:5000/stream?url=https://www.youtube.com/watch?v=btOaMS1Z-go
 
 
 
