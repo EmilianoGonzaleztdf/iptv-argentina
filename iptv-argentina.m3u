@@ -1,11 +1,29 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="Argentina",TV Pública
-(link funcional TV Pública)
+https://5cf4a2c2512a2.streamlock.net/tvpublica/tvpublica/playlist.m3u8
+
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" group-title="Argentina",Crónica TV
-(link funcional Crónica TV)
-#EXTINF:-1 tvg-id="TN.ar" tvg-name="Todo Noticias" group-title="Argentina",Todo Noticias
-(link funcional TN)
+https://stmv1.cnarlatam.com/cronica/cronica/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-name="Todo Noticias (TN)" group-title="Argentina",Todo Noticias (TN)
+https://panel.dattalive.com:3186/live/tvlive/tvlive/4.m3u8
+
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="Argentina",C5N
-(link funcional C5N)
-#EXTINF:-1 tvg-id="Simpsons.ar" tvg-name="The Simpsons" group-title="Series",Los Simpsons
-(link funcional Simpsons)
+https://5dc8406b1f1d9.streamlock.net/c5n/c5n/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Simpsons.ar" tvg-name="Los Simpsons 24/7" group-title="Series",Los Simpsons
+https://stmv1.srvif.com/simpsons/simpsons/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" group-title="Documentales",Discovery Channel
+https://linear-401.frequency.stream/401/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" group-title="Documentales",Discovery Turbo
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_discoveryturbo_discoveryturbo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="National Geographic" group-title="Documentales",National Geographic
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_natgeo_natgeo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="History Channel" group-title="Documentales",History Channel
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_historychannel_historychannel/playlist.m3u8
+
