@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="movie-schedule">
+    <display-name>Movie Schedule</display-name>
+  </channel>
+  <channel id="30a-tv">
+    <display-name>30A TV Movies</display-name>
+  </channel>
+  <channel id="pluto-tv">
+    <display-name>Pluto TV Channel 1</display-name>
+  </channel>
+  <channel id="kino-channel">
+    <display-name>Kino Channel</display-name>
+  </channel>
+  <channel id="abn-bible-movies">
+    <display-name>ABN Bible Movies</display-name>
+  </channel>
+  <channel id="action-tv">
+    <display-name>Action TV</display-name>
+  </channel>
+  <channel id="axn">
+    <display-name>AXN</display-name>
+  </channel>
+  <channel id="fx-movie-channel">
+    <display-name>FX Movie Channel</display-name>
+  </channel>
+  <channel id="hallmark-movies-mysteries">
+    <display-name>Hallmark Movies & Mysteries</display-name>
+  </channel>
+  <channel id="filmrise-true-crime">
+    <display-name>FilmRise True Crime</display-name>
+  </channel>
+  <channel id="forensic-files">
+    <display-name>Forensic Files Channel</display-name>
+  </channel>
+
+  <!-- Ejemplo de programación -->
+  <programme start="20250428120000 +0000" stop="20250428140000 +0000" channel="movie-schedule">
+    <title>Película de la Tarde</title>
+    <desc>Programación de películas en Movie Schedule.</desc>
+  </programme>
+  <programme start="20250428140000 +0000" stop="20250428160000 +0000" channel="pluto-tv">
+    <title>Clásicos de Acción</title>
+    <desc>Una selección de películas de acción en Pluto TV.</desc>
+  </programme>
+</tv>
