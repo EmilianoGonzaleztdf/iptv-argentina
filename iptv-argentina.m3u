@@ -1,30 +1,48 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="TV Pública" group-title="Argentina",TV Pública
-https://cdnenvivohlsb.onlineformosa.com.ar/tvpublica/tvpublica/playlist.m3u8
+#EXTINF:-1 tvg-name="PlutoTV: Películas" group-title="PlutoTV",PlutoTV: Películas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6a5a9fc2b70009141404/master.m3u8
 
-#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" group-title="Argentina",Crónica TV
-https://stmv1.cnarlatam.com/cronica/cronica/playlist.m3u8
+#EXTINF:-1 tvg-name="PlutoTV: Cine Acción" group-title="PlutoTV",PlutoTV: Cine Acción
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6aa6be2f0a00092109b7/master.m3u8
 
-#EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-name="Todo Noticias (TN)" group-title="Argentina",Todo Noticias (TN)
-https://panel.dattalive.com:3186/live/tvlive/tvlive/4.m3u8
+#EXTINF:-1 tvg-name="PlutoTV: Cine Comedia" group-title="PlutoTV",PlutoTV: Cine Comedia
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6ad9f8d4db000903c66d/master.m3u8
 
-#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="Argentina",C5N
-https://5dc8406b1f1d9.streamlock.net/c5n/c5n/playlist.m3u8
+#EXTINF:-1 tvg-name="PlutoTV: Cine Terror" group-title="PlutoTV",PlutoTV: Cine Terror
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6b1b9fc2b70009141625/master.m3u8
 
-#EXTINF:-1 tvg-id="Simpsons.ar" tvg-name="Los Simpsons 24/7" group-title="Series",Los Simpsons
-https://stmv1.srvif.com/simpsons/simpsons/playlist.m3u8
+#EXTINF:-1 tvg-name="PlutoTV: Series" group-title="PlutoTV",PlutoTV: Series
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6b5abe2f0a0009210a07/master.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery Channel" group-title="Documentales",Discovery Channel
-https://linear-401.frequency.stream/401/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="PlutoTV: Documentales" group-title="PlutoTV",PlutoTV: Documentales
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6b7cf8d4db000903c681/master.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryTurbo.uk" tvg-name="Discovery Turbo" group-title="Documentales",Discovery Turbo
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_discoveryturbo_discoveryturbo/playlist.m3u8
+#EXTINF:-1 tvg-name="PlutoTV: Reality Shows" group-title="PlutoTV",PlutoTV: Reality Shows
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6ba4f8d4db000903c689/master.m3u8
 
-#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="National Geographic" group-title="Documentales",National Geographic
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_natgeo_natgeo/playlist.m3u8
+#EXTINF:-1 tvg-name="PlutoTV: Deportes" group-title="PlutoTV",PlutoTV: Deportes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6bd7be2f0a0009210a16/master.m3u8
 
-#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="History Channel" group-title="Documentales",History Channel
-https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_historychannel_historychannel/playlist.m3u8
+#EXTINF:-1 tvg-name="PlutoTV: Noticias" group-title="PlutoTV",PlutoTV: Noticias
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6c01be2f0a0009210a1e/master.m3u8
+
+#EXTINF:-1 tvg-name="PlutoTV: Cocina" group-title="PlutoTV",PlutoTV: Cocina
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6c2cf8d4db000903c693/master.m3u8
+
+#EXTINF:-1 tvg-name="PlutoTV: Música" group-title="PlutoTV",PlutoTV: Música
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6c57be2f0a0009210a26/master.m3u8
+
+#EXTINF:-1 tvg-name="PlutoTV: Niños" group-title="PlutoTV",PlutoTV: Niños
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6c8cf8d4db000903c69d/master.m3u8
+
+#EXTINF:-1 tvg-name="PlutoTV: Anime" group-title="PlutoTV",PlutoTV: Anime
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6cc5f8d4db000903c6a5/master.m3u8
+
+#EXTINF:-1 tvg-name="PlutoTV: Estilo de Vida" group-title="PlutoTV",PlutoTV: Estilo de Vida
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6cf3f8d4db000903c6ab/master.m3u8
+
+#EXTINF:-1 tvg-name="PlutoTV: Tecnología" group-title="PlutoTV",PlutoTV: Tecnología
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d2b6d2abe2f0a0009210a2e/master.m3u8
 
 
