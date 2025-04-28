@@ -1,9 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="C5N" group-title="YouTube",C5N
+
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5N" group-title="YouTube",C5N
 http://192.168.100.106:5000/stream?url=https://www.youtube.com/c/c5n/live
 
-#EXTINF:-1 tvg-name="Crónica TV" group-title="YouTube",Crónica TV
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="Crónica TV" group-title="YouTube",Crónica TV
 http://192.168.100.106:5000/stream?url=https://www.youtube.com/c/cronicatv/live
+
+#EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-name="LN+" group-title="YouTube",LN+
+http://192.168.100.106:5000/stream?url=https://www.youtube.com/c/LaNacionMas/live
+
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26" group-title="YouTube",Canal 26
+http://192.168.100.106:5000/stream?url=https://www.youtube.com/c/canal26/live
+
+#EXTINF:-1 tvg-id="TVPublica.ar" tvg-name="Televisión Pública" group-title="YouTube",Televisión Pública
+http://192.168.100.106:5000/stream?url=https://www.youtube.com/user/TVPublicaArgentina/live
+
+#EXTINF:-1 tvg-id="TodoNoticias.ar" tvg-name="TN Todo Noticias" group-title="YouTube",TN Todo Noticias
+http://192.168.100.106:5000/stream?url=https://www.youtube.com/c/todonoticias/live
+
+#EXTINF:-1 tvg-id="AméricaTV.ar" tvg-name="América TV" group-title="YouTube",América TV
+http://192.168.100.106:5000/stream?url=https://www.youtube.com/c/Americatv/live
+
+#EXTINF:-1 tvg-id="IPNoticias.ar" tvg-name="IP Noticias" group-title="YouTube",IP Noticias
+http://192.168.100.106:5000/stream?url=https://www.youtube.com/channel/UC1J9Q8vaYtDuyT-ehh4YBAg/live
+
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-name="Encuentro" group-title="YouTube",Encuentro
+http://192.168.100.106:5000/stream?url=https://www.youtube.com/user/encuentro/live
+
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Pakapaka" group-title="YouTube",Pakapaka
+http://192.168.100.106:5000/stream?url=https://www.youtube.com/user/CanalPakapaka/live
+
 
 
 
